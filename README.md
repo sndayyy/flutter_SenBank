@@ -18,7 +18,7 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 ## 📄 Dokumentasi Aplikasi
 
 📁 [PDF Laporan](docs/ScreenshotFull.pdf)  
-🌐 [Video dokumentasi](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+🌐 [Video dokumentasi](https://drive.google.com/file/d/1HQq_5H58tJtZbnwAefeAHNFZgBAHJMa_/view?usp=drive_link)
 
 
 ---
